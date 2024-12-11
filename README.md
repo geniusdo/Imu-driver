@@ -2,6 +2,8 @@
 
 This repository contains the source code for the ADIS16470 IMU driver for the host machine. The driver is written in C++ 17 and uses the Linux Serial interface to communicate with the IMU.
 
+<img src="https://github.com/geniusdo/Imu-driver/blob/main/doc/img/IMU_BOARD.jpg" width="30%" height="auto" alt="IMUBOARD">
+
 ## Features
 
 - Support for the ADIS16470 IMU
